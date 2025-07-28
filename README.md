@@ -136,7 +136,7 @@ This project is for academic research. Please cite appropriately if used in publ
 
 ## Author
 
-**[Simon W](https://www.linkedin.com/in/simon-w-32183a292)**  
+**[Simon Wenchel](https://www.linkedin.com/in/simon-w-32183a292)**  
 
 ---
 
