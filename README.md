@@ -4,7 +4,7 @@
 
 This repository provides a modular Python implementation for combining Discontinuous Galerkin (DG) methods with domain decomposition techniques, including the Additive Schwarz Method (ASM) and Optimized Schwarz Method (OSM), to solve the nonlinear Allen-Cahn equation. The project enables numerical analysis of convergence properties and the impact of using Robin boundary conditions at subdomain interfaces.
 
-**This project was developed as part of my master's thesis at the Jülich Supercomputing Centre.**
+**This project was developed as part of my master's thesis at the Jülich Supercomputing Centre. All numerical methods, algorithms, and solvers were implemented from scratch without the use of any dedicated numerical PDE or finite element libraries, relying only on the standard dependencies listed below.**
 
 **Highlights:**
 - Class-based design for mesh generation, basis functions, DG solver, and domain decomposition.
